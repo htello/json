@@ -1,24 +1,11 @@
-	{
-		"id":1,
-		"nombre":"Pepe",
-		"correo":"pepe@pepe.es",
-		"curso":"JS"
-	},
-	{
-		"id":2,
-		"nombre":"Ana",
-		"correo":"ana@ana.es",
-		"curso":"HTML"
-	},
-	{
-		"id":3,
-		"nombre":"Juan",
-		"correo":"juan@juan.es",
-		"curso":"HTML"
-	},
-	{
-		"id":4,
-		"nombre":"Bea",
-		"correo":"bea@bea.es",
-		"curso":"CSS"
-	}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
